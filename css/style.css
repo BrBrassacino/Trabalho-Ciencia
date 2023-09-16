@@ -1,0 +1,23 @@
+@media screen and (max-width: 1200px) {
+
+    #video{
+
+        height: 150px;
+        width: 250px;
+
+    }
+    #texto{
+         
+        font-size: 20px;
+        margin: auto;
+        justify-items: auto;
+    }
+    #logo{
+        height: 70px;
+    }
+    body{
+
+        background-repeat:repeat-y ;
+    }
+   
+}
